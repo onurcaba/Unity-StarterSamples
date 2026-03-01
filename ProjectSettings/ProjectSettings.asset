@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Meta
-  productName: Starter Samples
+  productName: Meta XR SDK Starter Samples
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -145,9 +145,9 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
   preloadedAssets:
-  - {fileID: 11400000, guid: 8c0030b4b5984e7439a553df0cdd7dd2, type: 2}
-  - {fileID: -2547559607972768095, guid: abe5d4c6390c70b438750d3c82121457, type: 2}
   - {fileID: 11400000, guid: 98fabcbcca0886f45ad5205e84216e81, type: 2}
+  - {fileID: -2547559607972768095, guid: abe5d4c6390c70b438750d3c82121457, type: 2}
+  - {fileID: -2661437022847565163, guid: 7cc0ec32ddfe5604db951d60073a27d5, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -169,7 +169,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.samples.startersamples
+    Android: com.meta.unitysamples.startscene
     Standalone: com.samples.startersamples
   buildNumber:
     Standalone: 0
@@ -860,7 +860,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
