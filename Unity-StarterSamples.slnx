@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="ControllerSample.csproj" />
+  <Project Path="Unity.XR.Management.Samples.csproj" />
+  <Project Path="CustomCompositionLayerFeature.csproj" />
+  <Project Path="Unity.XR.Management.Samples.Editor.csproj" />
+</Solution>
